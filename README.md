@@ -23,12 +23,12 @@ What the numbers mean
 What decision they support
 Every project answers one core question:
 
-### Tools and Tecnology
+### TOOLS AND TECHNOLOGY
 #### Data & Analysis
-Python
-SQL (MySQL,SSMS)
-Excel
-##### Analytics & Visualization
+## Python
+## SQL (MySQL,SSMS)
+## Excel
+#####  ANALYTICS AND VISUALIZATION 
 Power BI
 Looker Studio
 Pandas
@@ -36,7 +36,7 @@ NumPy
 Matplotlib
 Tools are secondary. Insight is the product.
 
-###### Skills
+### SKILLS 
 Data cleaning 
 Data visualization 
 Clearity
