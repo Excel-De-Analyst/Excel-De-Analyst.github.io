@@ -44,7 +44,7 @@ Tools are secondary. Insight is the product.
 - Insight oriented 
 - Deep Analytics
 
-###### Connect
+### Connect
 - LinkedIn: (https://www.linkedin.com/in/alex-chukwuebuka-eze-06b829391)
 - Portfolio: Explore the repositories in this GitHub
 Open to collaborations in:
